@@ -1,5 +1,4 @@
 .page {
-  width: 100%;
   min-width: 320px;
   /* мы ещё не умеем делать мобильную версию сайта, */
   /* поэтому выше установлена минимальная ширина страницы */
@@ -279,7 +278,6 @@ h3 {
   min-height: 350px;
   box-sizing: border-box;
   padding: 60px 0 40px 0;
-  
 }
 
 .footer__columns {
@@ -309,7 +307,6 @@ h3 {
 .footer__column_content_info {
   display: flex;
   flex-direction: column;
-  
 }
 
 .footer__column-heading {
@@ -318,11 +315,6 @@ h3 {
   font-weight: 600;
   line-height: 30px;
   color: #fff;
-}
-
-.footer__column {
-  display: flex;
-  flex-direction: column;
 }
 
 .footer__column-links {
