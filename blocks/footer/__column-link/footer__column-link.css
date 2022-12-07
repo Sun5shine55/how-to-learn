@@ -7,5 +7,5 @@
 }
 
 .footer__column-link:hover {
-  background:grey;
+  opacity: 0.7;
 }
